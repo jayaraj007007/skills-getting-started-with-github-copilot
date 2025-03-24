@@ -85,6 +85,20 @@ section h3 {
   color: #555;
 }
 
+.activity-card .participants {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f1f8e9;
+  border: 1px solid #c5e1a5;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: #33691e;
+}
+
+.activity-card .participants strong {
+  color: #558b2f;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
